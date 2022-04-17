@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+    - name: staging
+      database: dezcamp-project-57000 
+      schema: pvdata
+
+      tables:
+        - name: day01
+        - name: day02
+        - name: day03
